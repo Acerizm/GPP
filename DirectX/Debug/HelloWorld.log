@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Character Input.vcxproj, HelloWorld.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  winmain.cpp
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.h(27): fatal error C1070: mismatched #if/#endif pair in file 'c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.h'
+  graphics.cpp
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(5): error C3646: 'direct3d': unknown override specifier
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(6): error C3646: 'device3d': unknown override specifier
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(7): error C3646: 'd3dpp': unknown override specifier
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(10): error C3646: 'result': unknown override specifier
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(11): error C3646: 'hwnd': unknown override specifier
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(36): error C2061: syntax error: identifier 'HWND'
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(39): error C3646: 'showBackbuffer': unknown override specifier
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(39): error C2059: syntax error: '('
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(39): error C2238: unexpected token(s) preceding ';'
+c:\users\acehq\desktop\gpp\week 1\practical\directx\graphics.cpp(42): fatal error C1020: unexpected #endif
+  Generating Code...
