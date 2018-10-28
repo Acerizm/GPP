@@ -259,7 +259,7 @@ bool CreateMainWindow(HWND &hwnd,HINSTANCE hInstance, int nCmdShow)
     wcx.hInstance = hInstance;          // handle to instance 
     wcx.hIcon = NULL; 
     wcx.hCursor = LoadCursor(NULL,IDC_ARROW);   // predefined arrow 
-    wcx.hbrBackground = (HBRUSH)GetStockObject(BLACK_BRUSH);    // black background brush 
+    wcx.hbrBackground = (HBRUSH)GetStockObject(LTGRAY_BRUSH);    // black background brush 
     wcx.lpszMenuName =  NULL;           // name of menu resource 
     wcx.lpszClassName = CLASS_NAME;     // name of window class 
     wcx.hIconSm = NULL;                 // small class icon 
